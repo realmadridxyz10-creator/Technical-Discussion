@@ -4,6 +4,8 @@ Demo for the coming discussion
 
 ## Main Topics in the Session
 
-1-
+* 1-
+* 2-
+* 3-
 
 
